@@ -26,16 +26,16 @@ I am a machine learning researcher AITRICS, working under the supervision of Pro
 - Undergraduate Researcher, Jun. 2021 – Feb. 2022
 
 **KAIST Applied Artificial Intelligence Lab, Daejeon, South Korea**
-- Developer Intern, Nov. 2021 – Jan. 2022
+- Developer, Nov. 2021 – Jan. 2022
 
 **DeepNatural, Seoul, South Korea**
-- Machine Learning Engineer Intern, Sept. 2020 – Feb. 2021
+- Machine Learning Engineer, Sept. 2020 – Feb. 2021
 
 **KAIST Vehicular Intelligence Lab, Daejeon, South Korea**
 - Undergraduate Researcher, Oct. 2019 – Aug. 2020
 
 **Netmarkble, Seoul, South Korea**
-- Data Engineer Intern, Jun. 2019 – Aug. 2019
+- Data Engineer, Jun. 2019 – Aug. 2019
 
 
 
