@@ -38,7 +38,7 @@ Currently, at AITRICS, my research primarily aims to enhance the generalizabilit
 **KAIST Vehicular Intelligence Lab, Daejeon, South Korea**
 - Undergraduate Researcher, Oct. 2019 – Aug. 2020
 
-**Netmarkble, Seoul, South Korea**
+**Netmarble, Seoul, South Korea**
 - Data Engineer, Jun. 2019 – Aug. 2019
 
 
