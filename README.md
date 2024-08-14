@@ -30,7 +30,7 @@ Currently, at AITRICS, my research primarily aims to enhance the generalizabilit
 - Undergraduate Researcher, Jun. 2021 – Feb. 2022
 
 **KAIST Applied Artificial Intelligence Lab, Daejeon, South Korea**
-- Undergraduate Researcher, Nov. 2021 – Jan. 2022
+- Developer, Nov. 2021 – Jan. 2022
 
 **DeepNatural, Seoul, South Korea**
 - Machine Learning Engineer, Sept. 2020 – Feb. 2021
