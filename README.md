@@ -16,30 +16,30 @@ At AITRICS, my research centers on improving the generalizability, robustness, a
 
 ## Education
 **Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea**
-- M.S. in Artificial Intelligence, Mar. 2022 – Feb. 2024
-- B.S. in Computer Science and Mathematics, Mar. 2017 – Feb. 2022
+- M.S. in Artificial Intelligence, Mar. 2022–Feb. 2024
+- B.S. in Computer Science and Mathematics, Mar. 2017–Feb. 2022
 
 
 
 ## Professional Experience
 **AITRICS, Seoul, South Korea**
-- Machine Learning Researcher, Nov. 2023 – Present
+- Machine Learning Researcher, Nov. 2023–Present
 
 **KAIST Machine Learning and Intelligence Lab, Daejeon, South Korea**
-- Master's Student Researcher, Mar. 2022 – Feb. 2024
-- Undergraduate Researcher, Jun. 2021 – Feb. 2022
+- Master's Student Researcher, Mar. 2022–Feb. 2024
+- Undergraduate Researcher, Jun. 2021–Feb. 2022
 
 **KAIST Applied Artificial Intelligence Lab, Daejeon, South Korea**
-- Developer, Sept. 2021 – Jan. 2022
+- Developer, Sept. 2021–Jan. 2022
 
 **DeepNatural, Seoul, South Korea**
-- Machine Learning Engineer, Sept. 2020 – Feb. 2021
+- Machine Learning Engineer, Sept. 2020–Feb. 2021
 
 **KAIST Vehicular Intelligence Lab, Daejeon, South Korea**
-- Undergraduate Researcher, Oct. 2019 – Aug. 2020
+- Undergraduate Researcher, Oct. 2019–Aug. 2020
 
 **Netmarble, Seoul, South Korea**
-- Data Engineer, Jun. 2019 – Aug. 2019
+- Data Engineer, Jun. 2019–Aug. 2019
 
 
 
