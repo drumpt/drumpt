@@ -29,9 +29,6 @@ At AITRICS, my research centers on improving the generalizability, robustness, a
 - Master's Student Researcher, Mar. 2022–Feb. 2024
 - Undergraduate Researcher, Jun. 2021–Feb. 2022
 
-**KAIST Applied Artificial Intelligence Lab**, Daejeon, Korea
-- Developer, Sept. 2021–Jan. 2022
-
 **DeepNatural**, Seoul, Korea
 - Machine Learning Engineer, Sept. 2020–Feb. 2021
 
