@@ -22,7 +22,7 @@ I am a machine learning researcher at AITRICS, a healthcare AI startup in Korea,
 - Machine Learning Researcher, Nov. 2023–Present
 
 **KAIST Machine Learning and Intelligence Lab**, Daejeon, Korea
-- Master's Student Researcher, Mar. 2022–Feb. 2024
+- Graduate Researcher, Mar. 2022–Feb. 2024
 - Undergraduate Researcher, Jun. 2021–Feb. 2022
 
 **DeepNatural**, Seoul, Korea
