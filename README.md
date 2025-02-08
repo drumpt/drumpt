@@ -4,9 +4,9 @@ I am a machine learning researcher at AITRICS, a healthcare AI startup in Korea,
 
 
 ## Research Interests
-- Out-of-Distribution Generalization
+- Trustworthy Machine Learning
 - Deep Generative Models
-- Statistical Learning Theory
+- Machine Learning Theory
 
 
 
