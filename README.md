@@ -13,7 +13,7 @@ I am a machine learning researcher at AITRICS, a healthcare AI startup in Korea,
 ## Education
 **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Korea
 - M.S. in Artificial Intelligence, Mar. 2022–Feb. 2024
-- B.S. in Computer Science and Mathematical Sciences (Double Major), Mar. 2017–Feb. 2022
+- B.S. in Computer Science and Mathematics (Double Major), Mar. 2017–Feb. 2022
 
 
 
