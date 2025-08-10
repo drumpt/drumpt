@@ -18,6 +18,9 @@ I am a machine learning researcher at AITRICS, a healthcare AI startup in Korea,
 
 
 ## Professional Experience
+**UBC Computer Vision Lab**, Vancouver, BC, Canada (Remote)
+- External Collaborator, Jul. 2025 – Present
+
 **AITRICS**, Seoul, Korea
 - Machine Learning Researcher, Nov. 2023 – Present
 
