@@ -1,5 +1,5 @@
 ## Biography
-I am a machine learning researcher at AITRICS, a healthcare AI startup in Korea, where I am fulfilling my alternative military service under Prof. Eunho Yang. For more information, please visit my [homepage](https://changhun.kim) and feel free to reach out!
+I am a machine learning researcher at AITRICS, a healthcare AI startup in Korea. For more information, please visit my [homepage](https://changhun.kim), and feel free to reach out!
 
 
 
@@ -12,8 +12,8 @@ I am a machine learning researcher at AITRICS, a healthcare AI startup in Korea,
 
 ## Education
 **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Korea
-- M.S. in Artificial Intelligence, Mar. 2022 – Feb. 2024
-- B.S. in Computer Science and Mathematics, Mar. 2017 – Feb. 2022
+- M.S. in Artificial Intelligence, Feb. 2022 – Feb. 2024
+- B.S. in Computer Science and Mathematics, Feb. 2017 – Feb. 2022
 
 
 
@@ -25,7 +25,7 @@ I am a machine learning researcher at AITRICS, a healthcare AI startup in Korea,
 - Machine Learning Researcher, Nov. 2023 – Present
 
 **KAIST Machine Learning and Intelligence Lab**, Daejeon, Korea
-- Research Assistant, Mar. 2022 – Feb. 2024
+- Research Assistant, Feb. 2022 – Feb. 2024
 - Undergraduate Researcher, Jun. 2021 – Feb. 2022
 
 **KAIST Vehicular Intelligence Lab**, Daejeon, Korea
