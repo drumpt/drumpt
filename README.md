@@ -22,14 +22,14 @@ I am a machine learning researcher at AITRICS, a healthcare AI startup in Korea.
 - External Collaborator, Jul. 2025 – Present
 
 **AITRICS**, Seoul, Korea
-- Machine Learning Researcher, Nov. 2023 – Present
+- Researcher, Nov. 2023 – Present
 
 **KAIST Machine Learning and Intelligence Lab**, Daejeon, Korea
-- Research Assistant, Feb. 2022 – Feb. 2024
-- Undergraduate Researcher, Jun. 2021 – Feb. 2022
+- Graduate Research Assistant, Feb. 2022 – Feb. 2024
+- Undergraduate Research Assistant, Jun. 2021 – Feb. 2022
 
 **KAIST Vehicular Intelligence Lab**, Daejeon, Korea
-- Undergraduate Researcher, Oct. 2019 – Aug. 2020
+- Undergraduate Research Assistant, Oct. 2019 – Aug. 2020
 
 **Netmarble**, Seoul, Korea
 - Data Engineer, Jun. 2019 – Aug. 2019
