@@ -11,6 +11,9 @@ I am a machine learning researcher at AITRICS, a healthcare AI startup in Korea.
 
 
 ## Education
+**University of Wisconsin–Madison**, Madison, WI, USA
+- Ph.D. in Computer Science, Sept. 2026 – Present
+
 **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Korea
 - M.S. in Artificial Intelligence, Feb. 2022 – Feb. 2024
 - B.S. in Computer Science and Mathematics, Feb. 2017 – Feb. 2022
@@ -19,10 +22,10 @@ I am a machine learning researcher at AITRICS, a healthcare AI startup in Korea.
 
 ## Professional Experience
 **UBC Computer Vision Lab**, Vancouver, BC, Canada (Remote)
-- External Collaborator, Jul. 2025 – Present
+- External Collaborator, Jul. 2025 – May 2026
 
 **AITRICS**, Seoul, Korea
-- Researcher, Nov. 2023 – Present
+- Researcher, Nov. 2023 – May 2026
 
 **KAIST Machine Learning and Intelligence Lab**, Daejeon, Korea
 - Graduate Research Assistant, Feb. 2022 – Feb. 2024
