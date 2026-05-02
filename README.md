@@ -20,7 +20,7 @@ I am an incoming Ph.D. student in the Department of [Computer Science](https://w
 
 
 
-## Professional Experience
+## Employment
 [**UBC Computer Vision Lab**](https://vision.cs.ubc.ca/), Vancouver, BC, Canada (Remote)
 - External Collaborator, Jul. 2025 – May 2026
 
