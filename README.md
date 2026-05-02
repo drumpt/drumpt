@@ -11,30 +11,30 @@ I am an incoming Ph.D. student in the Department of [Computer Science](https://w
 
 
 ## Education
-**University of Wisconsin–Madison**, Madison, WI, USA
+[**University of Wisconsin–Madison**](https://www.wisc.edu/), Madison, WI, USA
 - Ph.D. in Computer Science, Sept. 2026 – Present
 
-**Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Korea
+[**Korea Advanced Institute of Science and Technology (KAIST)**](https://kaist.ac.kr/), Daejeon, Korea
 - M.S. in Artificial Intelligence, Feb. 2022 – Feb. 2024
 - B.S. in Computer Science and Mathematics, Feb. 2017 – Feb. 2022
 
 
 
 ## Professional Experience
-**UBC Computer Vision Lab**, Vancouver, BC, Canada (Remote)
+[**UBC Computer Vision Lab**](https://vision.cs.ubc.ca/), Vancouver, BC, Canada (Remote)
 - External Collaborator, Jul. 2025 – May 2026
 
-**AITRICS**, Seoul, Korea
+[**AITRICS**](https://www.aitrics.com/en/), Seoul, Korea
 - Researcher, Nov. 2023 – May 2026
 
-**KAIST Machine Learning and Intelligence Lab**, Daejeon, Korea
+[**KAIST Machine Learning and Intelligence Lab**](https://mli.kaist.ac.kr/), Daejeon, Korea
 - Graduate Research Assistant, Feb. 2022 – Feb. 2024
 - Undergraduate Research Assistant, Jun. 2021 – Feb. 2022
 
-**KAIST Vehicular Intelligence Lab**, Daejeon, Korea
+[**KAIST Vehicular Intelligence Lab**](https://vil.kaist.ac.kr/), Daejeon, Korea
 - Undergraduate Research Assistant, Oct. 2019 – Aug. 2020
 
-**Netmarble**, Seoul, Korea
+[**Netmarble**](https://www.netmarble.net/), Seoul, Korea
 - Data Engineer, Jun. 2019 – Aug. 2019
 
 
