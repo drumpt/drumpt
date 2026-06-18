@@ -40,5 +40,5 @@ I am an incoming Ph.D. student in the Department of [Computer Science](https://w
 
 
 ## Contact
-- Email: [changhun.a.kim@gmail.com](mailto:changhun.a.kim@gmail.com)
+- Email: [changhun.kim@cs.wisc.edu](mailto:changhun.kim@cs.wisc.edu)
 - Homepage: <a href="https://changhun.kim" target="_blank">https://changhun.kim</a>
