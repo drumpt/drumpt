@@ -12,7 +12,7 @@ I am an incoming Ph.D. student in the Department of [Computer Science](https://w
 
 ## Education
 [**University of Wisconsin–Madison**](https://www.wisc.edu/), Madison, WI, USA
-- Ph.D. in Computer Science, Sept. 2026 – Present
+- Ph.D. in Computer Science, Aug. 2026 – Present
 
 [**Korea Advanced Institute of Science and Technology (KAIST)**](https://kaist.ac.kr/), Daejeon, Korea
 - M.S. in Artificial Intelligence, Feb. 2022 – Feb. 2024
