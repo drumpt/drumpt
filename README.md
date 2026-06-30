@@ -1,5 +1,5 @@
 ## Biography
-I am an incoming Ph.D. student in the Department of [Computer Sciences](https://www.cs.wisc.edu/) at the [University of Wisconsin–Madison](https://www.wisc.edu/). For more information, please visit my [homepage](https://changhun.kim), and feel free to reach out!
+I am a Ph.D. student in the Department of [Computer Sciences](https://www.cs.wisc.edu/) at the [University of Wisconsin–Madison](https://www.wisc.edu/). For more information, please visit my [homepage](https://changhun.kim), and feel free to reach out!
 
 
 
