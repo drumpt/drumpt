@@ -7,6 +7,7 @@ I am a Ph.D. student in the Department of [Computer Sciences](https://www.cs.wis
 - Trustworthy Machine Learning
 - Deep Generative Models
 - Machine Learning Theory
+- Embodied AI
 
 
 
