@@ -22,6 +22,10 @@ I am a Ph.D. student in the Department of [Computer Sciences](https://www.cs.wis
 
 
 ## Employment
+[**University of Wisconsin–Madison**](https://www.wisc.edu/), Madison, WI, USA
+- Graduate Research Assistant, Aug. 2026 – Present
+- Graduate Teaching Assistant, Aug. 2026 – Present
+
 [**UBC Computer Vision Lab**](https://vision.cs.ubc.ca/), Vancouver, BC, Canada (Remote)
 - External Collaborator, Jul. 2025 – Present
 
