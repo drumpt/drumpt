@@ -39,9 +39,6 @@ I am a Ph.D. student in the Department of [Computer Sciences](https://www.cs.wis
 [**KAIST Vehicular Intelligence Lab**](https://vil.kaist.ac.kr/), Daejeon, Korea
 - Undergraduate Research Assistant, Oct. 2019 – Aug. 2020
 
-[**Netmarble**](https://www.netmarble.net/), Seoul, Korea
-- Data Engineer, Jun. 2019 – Aug. 2019
-
 
 
 ## Contact
