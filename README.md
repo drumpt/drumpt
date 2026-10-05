@@ -4,9 +4,9 @@ I am a Ph.D. student in the Department of [Computer Sciences](https://www.cs.wis
 
 
 ## Research Interests
-- Trustworthy Machine Learning
 - Deep Generative Models
 - Embodied AI
+- Trustworthy Machine Learning
 - Machine Learning Theory
 
 
